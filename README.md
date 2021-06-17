@@ -7,8 +7,8 @@ My name is David.
 - 🤔 I’m looking for help with best practice as a developer
 - 💬 Ask me about games, please!
 - 📫 How to reach me:
-  - [![Linkedin](https://img.shields.io/badge/-Linkedin-616161?style=flat-square)](linkedin.com/in/david-fornazier)
-  - [![Twitter](https://img.shields.io/badge/-Twitter-616161?style=flat-square)](twitter.com/fornazierr)
+  - ![Linkedin](https://img.shields.io/badge/-Linkedin-616161?style=flat-square?link=https://www.linkedin.com/in/david-fornazier&link=https://www.linkedin.com/in/david-fornazier)
+  - ![Twitter](https://img.shields.io/badge/-Twitter-616161?style=flat-square?link=https://www.twitter.com/fornazierr&link=https://www.twitter.com/fornazierr)
 - 😄 Pronouns: ele/dele/he/him
 - ⚡ Fun fact: i don't know good jokes
 
