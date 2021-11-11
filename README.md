@@ -2,7 +2,7 @@
 
 My name is David.
 
-- 🔭 I’m currently working as a junior full stack developer
+- 🔭 I’m currently working as a junior back end developer
 - 🌱 I’m currently learning about microservices and microfront ends
 - 🤔 I’m looking for help with best practice as a developer
 - 💬 Ask me about games, please!
