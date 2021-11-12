@@ -28,6 +28,6 @@ My name is David.
 ![Git](https://img.shields.io/badge/-git-616161?style=flat-square&logo=git)
 
 ### Else
-![David's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=d6d6d6&icon_color=79ff97&text_color=d6d6d6&bg_color=616161)
+![David's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fornazierr&layout=compact&title_color=d6d6d6&icon_color=79ff97&text_color=d6d6d6&bg_color=616161)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=fornazierr&show_icons=true&title_color=d6d6d6&icon_color=79ff97&text_color=d6d6d6&bg_color=616161)
