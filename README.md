@@ -2,15 +2,7 @@
 
 My name is David.
 
-- 🔭 I’m currently working as a junior back end developer
-- 🌱 I’m currently learning about microservices and microfront ends
-- 🤔 I’m looking for help with best practice as a developer
-- 💬 Ask me about games, please!
-- 📫 How to reach me:
-  - ![Linkedin](https://img.shields.io/badge/-Linkedin-616161?style=flat-square?link=https://www.linkedin.com/in/david-fornazier&link=https://www.linkedin.com/in/david-fornazier)
-  - ![Twitter](https://img.shields.io/badge/-Twitter-616161?style=flat-square?link=https://www.twitter.com/fornazierr&link=https://www.twitter.com/fornazierr)
-- 😄 Pronouns: ele/dele/he/him
-- ⚡ Fun fact: i don't know good jokes
+- 🔭 I’m currently working as Integration Developer
 
 ### Technologies (Personal and Professional Projects)
 ![Java](https://img.shields.io/badge/-java-616161?style=flat-square&logo=java)
